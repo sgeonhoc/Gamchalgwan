@@ -1,0 +1,19 @@
+# Unreal generated folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+.idea/
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+*.sdf
+
+# Packaged output and capture frames stay outside git
+Builds/
+cap*/
+*.zip
+*.log

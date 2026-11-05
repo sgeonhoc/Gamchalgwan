@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "Gamchalgwan graybox - one dock, report stage 0-3",
+	"Modules": [
+		{
+			"Name": "Gamchalgwan",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
